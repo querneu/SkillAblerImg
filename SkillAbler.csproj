@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Rust game API -->
+    <Reference Include="Assembly-CSharp">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <!-- Oxide -->
+    <Reference Include="Oxide.Common">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Oxide.Common.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Oxide.Core">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Oxide.Core.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Oxide.CSharp">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Oxide.CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Oxide.References">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Oxide.References.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Oxide.Rust">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Oxide.Rust.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Oxide.Unity">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Oxide.Unity.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Facepunch.UnityEngine">
+      <HintPath>C:\rustserver\RustDedicated_Data\Managed\Facepunch.UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>
