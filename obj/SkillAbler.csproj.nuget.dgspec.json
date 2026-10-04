@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Documents\\Rust Plugins learning dev\\SkillAbler\\SkillAbler.csproj": {}
+    "C:\\Users\\Lucas\\Desktop\\RustCUIEditor262\\Images\\SkillAblerImg\\SkillAbler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Documents\\Rust Plugins learning dev\\SkillAbler\\SkillAbler.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\RustCUIEditor262\\Images\\SkillAblerImg\\SkillAbler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\Rust Plugins learning dev\\SkillAbler\\SkillAbler.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\RustCUIEditor262\\Images\\SkillAblerImg\\SkillAbler.csproj",
         "projectName": "SkillAbler",
-        "projectPath": "C:\\Users\\Lucas\\Documents\\Rust Plugins learning dev\\SkillAbler\\SkillAbler.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\RustCUIEditor262\\Images\\SkillAblerImg\\SkillAbler.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Documents\\Rust Plugins learning dev\\SkillAbler\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\RustCUIEditor262\\Images\\SkillAblerImg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

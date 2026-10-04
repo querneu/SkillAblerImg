@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N1bK+5wVKAs=",
+  "dgSpecHash": "fzSpaB09p1M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Documents\\Rust Plugins learning dev\\SkillAbler\\SkillAbler.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Desktop\\RustCUIEditor262\\Images\\SkillAblerImg\\SkillAbler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"

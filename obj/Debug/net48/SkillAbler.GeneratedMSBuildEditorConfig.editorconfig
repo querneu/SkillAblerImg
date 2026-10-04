@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = SkillAbler
-build_property.ProjectDir = C:\Users\Lucas\Documents\Rust Plugins learning dev\SkillAbler\
+build_property.ProjectDir = C:\Users\Lucas\Desktop\RustCUIEditor262\Images\SkillAblerImg\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
