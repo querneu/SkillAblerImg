@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillAbler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bd15fda20535dd64c6acee3be4debc77cbc8092")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+405794ae87306691da11572939e32538023bd2f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillAbler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillAbler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

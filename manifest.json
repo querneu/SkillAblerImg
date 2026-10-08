@@ -1,0 +1,1098 @@
+[
+  {
+    "key": "amateur_miner",
+    "name": "Amateur Miner",
+    "category": "Mining",
+    "effect": "Mining_Yield",
+    "glyph": "pickaxe",
+    "file": "amateur_miner.png"
+  },
+  {
+    "key": "stroke_of_luck",
+    "name": "Stroke of Luck",
+    "category": "Mining",
+    "effect": "Node_Spawn_Chance",
+    "glyph": "gem",
+    "file": "stroke_of_luck.png"
+  },
+  {
+    "key": "adept_miner",
+    "name": "Adept Miner",
+    "category": "Mining",
+    "effect": "Mining_Yield",
+    "glyph": "pickaxe",
+    "file": "adept_miner.png"
+  },
+  {
+    "key": "efficient_miner",
+    "name": "Efficient Miner",
+    "category": "Mining",
+    "effect": "Mining_Hotspot",
+    "glyph": "pickaxe",
+    "file": "efficient_miner.png"
+  },
+  {
+    "key": "instant_mining",
+    "name": "Instant Mining",
+    "category": "Mining",
+    "effect": "Instant_Mine",
+    "glyph": "bolt",
+    "file": "instant_mining.png"
+  },
+  {
+    "key": "mining_luck",
+    "name": "Mining Luck",
+    "category": "Mining",
+    "effect": "Mining_Luck",
+    "glyph": "star",
+    "file": "mining_luck.png"
+  },
+  {
+    "key": "expert_miner",
+    "name": "Expert Miner",
+    "category": "Mining",
+    "effect": "Mining_Yield",
+    "glyph": "pickaxe",
+    "file": "expert_miner.png"
+  },
+  {
+    "key": "refiner",
+    "name": "Refiner",
+    "category": "Mining",
+    "effect": "Smelt_On_Mine",
+    "glyph": "furnace",
+    "file": "refiner.png"
+  },
+  {
+    "key": "robust_miner",
+    "name": "Robust Miner",
+    "category": "Mining",
+    "effect": "Mining_Tool_Durability",
+    "glyph": "shield",
+    "file": "robust_miner.png"
+  },
+  {
+    "key": "stone_sense",
+    "name": "Stone Sense",
+    "category": "Mining",
+    "effect": "Mining_Ultimate",
+    "glyph": "compass",
+    "file": "stone_sense.png"
+  },
+  {
+    "key": "amateur_woodcutter",
+    "name": "Amateur Woodcutter",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Yield",
+    "glyph": "axe",
+    "file": "amateur_woodcutter.png"
+  },
+  {
+    "key": "adept_woodcutter",
+    "name": "Adept Woodcutter",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Yield",
+    "glyph": "axe",
+    "file": "adept_woodcutter.png"
+  },
+  {
+    "key": "instant_woodcutting",
+    "name": "Instant Woodcutting",
+    "category": "Woodcutting",
+    "effect": "Instant_Chop",
+    "glyph": "bolt",
+    "file": "instant_woodcutting.png"
+  },
+  {
+    "key": "woodcutting_luck",
+    "name": "Woodcutting Luck",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Luck",
+    "glyph": "star",
+    "file": "woodcutting_luck.png"
+  },
+  {
+    "key": "efficient_lumberjack",
+    "name": "Efficient Lumberjack",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Hotspot",
+    "glyph": "axe",
+    "file": "efficient_lumberjack.png"
+  },
+  {
+    "key": "expert_woodcutter",
+    "name": "Expert Woodcutter",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Yield",
+    "glyph": "axe",
+    "file": "expert_woodcutter.png"
+  },
+  {
+    "key": "chimney",
+    "name": "Chimney",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Coal",
+    "glyph": "coal",
+    "file": "chimney.png"
+  },
+  {
+    "key": "tree_regrowth",
+    "name": "Tree Regrowth",
+    "category": "Woodcutting",
+    "effect": "Regrowth",
+    "glyph": "sprout",
+    "file": "tree_regrowth.png"
+  },
+  {
+    "key": "robust_axe",
+    "name": "Robust Axe",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Tool_Durability",
+    "glyph": "shield",
+    "file": "robust_axe.png"
+  },
+  {
+    "key": "deforestation",
+    "name": "Deforestation",
+    "category": "Woodcutting",
+    "effect": "Woodcutting_Ultimate",
+    "glyph": "forest",
+    "file": "deforestation.png"
+  },
+  {
+    "key": "amateur_skinner",
+    "name": "Amateur Skinner",
+    "category": "Skinning",
+    "effect": "Skinning_Yield",
+    "glyph": "knife",
+    "file": "amateur_skinner.png"
+  },
+  {
+    "key": "robust_knife",
+    "name": "Robust Knife",
+    "category": "Skinning",
+    "effect": "Skinning_Tool_Durability",
+    "glyph": "shield",
+    "file": "robust_knife.png"
+  },
+  {
+    "key": "adept_skinner",
+    "name": "Adept Skinner",
+    "category": "Skinning",
+    "effect": "Skinning_Yield",
+    "glyph": "knife",
+    "file": "adept_skinner.png"
+  },
+  {
+    "key": "instant_skinner",
+    "name": "Instant Skinner",
+    "category": "Skinning",
+    "effect": "Instant_Skin",
+    "glyph": "knife",
+    "file": "instant_skinner.png"
+  },
+  {
+    "key": "steel_knife",
+    "name": "Steel Knife",
+    "category": "Skinning",
+    "effect": "Skinning_Tool_Durability",
+    "glyph": "shield",
+    "file": "steel_knife.png"
+  },
+  {
+    "key": "expert_skinner",
+    "name": "Expert Skinner",
+    "category": "Skinning",
+    "effect": "Skinning_Yield",
+    "glyph": "knife",
+    "file": "expert_skinner.png"
+  },
+  {
+    "key": "survival_chef",
+    "name": "Survival Chef",
+    "category": "Skinning",
+    "effect": "Skin_Cook",
+    "glyph": "meat",
+    "file": "survival_chef.png"
+  },
+  {
+    "key": "skilled_hunter",
+    "name": "Skilled Hunter",
+    "category": "Skinning",
+    "effect": "Animal_NPC_Damage",
+    "glyph": "paw",
+    "file": "skilled_hunter.png"
+  },
+  {
+    "key": "skinning_luck",
+    "name": "Skinning Luck",
+    "category": "Skinning",
+    "effect": "Skinning_Luck",
+    "glyph": "star",
+    "file": "skinning_luck.png"
+  },
+  {
+    "key": "skilled_tracker",
+    "name": "Skilled Tracker",
+    "category": "Skinning",
+    "effect": "AnimalTracker",
+    "glyph": "tracks",
+    "file": "skilled_tracker.png"
+  },
+  {
+    "key": "amateur_harvester",
+    "name": "Amateur Harvester",
+    "category": "Harvesting",
+    "effect": "Harvest_Wild_Yield",
+    "glyph": "basket",
+    "file": "amateur_harvester.png"
+  },
+  {
+    "key": "lucky_forager",
+    "name": "Lucky Forager",
+    "category": "Harvesting",
+    "effect": "Harvesting_Luck",
+    "glyph": "star",
+    "file": "lucky_forager.png"
+  },
+  {
+    "key": "braided_line",
+    "name": "Braided Line",
+    "category": "Harvesting",
+    "effect": "Rod_Tension_Bonus",
+    "glyph": "fishing_rod",
+    "file": "braided_line.png"
+  },
+  {
+    "key": "ichthyologist",
+    "name": "Ichthyologist",
+    "category": "Harvesting",
+    "effect": "Bite_Speed",
+    "glyph": "fish",
+    "file": "ichthyologist.png"
+  },
+  {
+    "key": "hobbyist_harvester",
+    "name": "Hobbyist Harvester",
+    "category": "Harvesting",
+    "effect": "Harvest_Wild_Yield",
+    "glyph": "basket",
+    "file": "hobbyist_harvester.png"
+  },
+  {
+    "key": "amateur_farmer",
+    "name": "Amateur Farmer",
+    "category": "Harvesting",
+    "effect": "Harvest_Grown_Yield",
+    "glyph": "sprout",
+    "file": "amateur_farmer.png"
+  },
+  {
+    "key": "fishing_luck",
+    "name": "Fishing Luck",
+    "category": "Harvesting",
+    "effect": "Fishing_Luck",
+    "glyph": "star",
+    "file": "fishing_luck.png"
+  },
+  {
+    "key": "expert_harvester",
+    "name": "Expert Harvester",
+    "category": "Harvesting",
+    "effect": "Harvest_Wild_Yield",
+    "glyph": "basket",
+    "file": "expert_harvester.png"
+  },
+  {
+    "key": "expert_farmer",
+    "name": "Expert Farmer",
+    "category": "Harvesting",
+    "effect": "Harvest_Grown_Yield",
+    "glyph": "sprout",
+    "file": "expert_farmer.png"
+  },
+  {
+    "key": "forager_s_intuition",
+    "name": "Forager's Intuition",
+    "category": "Harvesting",
+    "effect": "Forager",
+    "glyph": "leaf",
+    "file": "forager_s_intuition.png"
+  },
+  {
+    "key": "fisherman",
+    "name": "Fisherman",
+    "category": "Harvesting",
+    "effect": "Extra_Fish",
+    "glyph": "fish",
+    "file": "fisherman.png"
+  },
+  {
+    "key": "botanist",
+    "name": "Botanist",
+    "category": "Harvesting",
+    "effect": "Harvester_Ultimate",
+    "glyph": "seedling",
+    "file": "botanist.png"
+  },
+  {
+    "key": "bandage_expert",
+    "name": "Bandage Expert",
+    "category": "Medical",
+    "effect": "Double_Bandage_Heal",
+    "glyph": "bandage",
+    "file": "bandage_expert.png"
+  },
+  {
+    "key": "radiation_expert",
+    "name": "Radiation Expert",
+    "category": "Medical",
+    "effect": "Radiation_Reduction",
+    "glyph": "radiation",
+    "file": "radiation_expert.png"
+  },
+  {
+    "key": "rejuvenation",
+    "name": "Rejuvenation",
+    "category": "Medical",
+    "effect": "HealthRegen",
+    "glyph": "heart",
+    "file": "rejuvenation.png"
+  },
+  {
+    "key": "healthy",
+    "name": "Healthy",
+    "category": "Medical",
+    "effect": "Max_Health",
+    "glyph": "heart",
+    "file": "healthy.png"
+  },
+  {
+    "key": "flame_resistant",
+    "name": "Flame Resistant",
+    "category": "Medical",
+    "effect": "Fire_Damage_Reduction",
+    "glyph": "flame_shield",
+    "file": "flame_resistant.png"
+  },
+  {
+    "key": "free_fall",
+    "name": "Free Fall",
+    "category": "Medical",
+    "effect": "Fall_Damage_Reduction",
+    "glyph": "parachute",
+    "file": "free_fall.png"
+  },
+  {
+    "key": "battle_medic",
+    "name": "Battle Medic",
+    "category": "Medical",
+    "effect": "Reviver",
+    "glyph": "heart",
+    "file": "battle_medic.png"
+  },
+  {
+    "key": "exposed_radiation",
+    "name": "Exposed Radiation",
+    "category": "Medical",
+    "effect": "RadiationBaseValue",
+    "glyph": "radiation",
+    "file": "exposed_radiation.png"
+  },
+  {
+    "key": "cold_immunity",
+    "name": "Cold Immunity",
+    "category": "Medical",
+    "effect": "No_Cold_Damage",
+    "glyph": "snow_shield",
+    "file": "cold_immunity.png"
+  },
+  {
+    "key": "acrobatics",
+    "name": "Acrobatics",
+    "category": "Medical",
+    "effect": "Fall_Damage_Reduction",
+    "glyph": "parachute",
+    "file": "acrobatics.png"
+  },
+  {
+    "key": "second_wind",
+    "name": "Second Wind",
+    "category": "Medical",
+    "effect": "Wounded_Resist",
+    "glyph": "shield",
+    "file": "second_wind.png"
+  },
+  {
+    "key": "fresh_start",
+    "name": "Fresh Start",
+    "category": "Medical",
+    "effect": "Spawn_Health",
+    "glyph": "heart",
+    "file": "fresh_start.png"
+  },
+  {
+    "key": "lead_lined",
+    "name": "Lead Lined",
+    "category": "Medical",
+    "effect": "RadiationResistModifier",
+    "glyph": "radiation",
+    "file": "lead_lined.png"
+  },
+  {
+    "key": "messiah",
+    "name": "Messiah",
+    "category": "Medical",
+    "effect": "Medical_Ultimate",
+    "glyph": "medical",
+    "file": "messiah.png"
+  },
+  {
+    "key": "duelist",
+    "name": "Duelist",
+    "category": "Combat",
+    "effect": "Melee_Resist",
+    "glyph": "sword_shield",
+    "file": "duelist.png"
+  },
+  {
+    "key": "maintenance",
+    "name": "Maintenance",
+    "category": "Combat",
+    "effect": "Durability",
+    "glyph": "shield",
+    "file": "maintenance.png"
+  },
+  {
+    "key": "drum_mag",
+    "name": "Drum Mag",
+    "category": "Combat",
+    "effect": "Extended_Mag",
+    "glyph": "magazine",
+    "file": "drum_mag.png"
+  },
+  {
+    "key": "sticky_grenade",
+    "name": "Sticky Grenade",
+    "category": "Combat",
+    "effect": "Sticky_Grenade",
+    "glyph": "grenade",
+    "file": "sticky_grenade.png"
+  },
+  {
+    "key": "defense_master",
+    "name": "Defense Master",
+    "category": "Combat",
+    "effect": "Human_NPC_Defence",
+    "glyph": "shield",
+    "file": "defense_master.png"
+  },
+  {
+    "key": "resourceful",
+    "name": "Resourceful",
+    "category": "Combat",
+    "effect": "Free_Bullet_Chance",
+    "glyph": "bullet",
+    "file": "resourceful.png"
+  },
+  {
+    "key": "breakthrough",
+    "name": "Breakthrough",
+    "category": "Combat",
+    "effect": "Human_NPC_Damage",
+    "glyph": "crosshair",
+    "file": "breakthrough.png"
+  },
+  {
+    "key": "spotter",
+    "name": "Spotter",
+    "category": "Combat",
+    "effect": "Awareness",
+    "glyph": "eye",
+    "file": "spotter.png"
+  },
+  {
+    "key": "rocketeer",
+    "name": "Rocketeer",
+    "category": "Combat",
+    "effect": "Rocket_Velocity",
+    "glyph": "rocket",
+    "file": "rocketeer.png"
+  },
+  {
+    "key": "heli_call",
+    "name": "Heli Call",
+    "category": "Combat",
+    "effect": "Heli_Damage_Bonus",
+    "glyph": "helicopter",
+    "file": "heli_call.png"
+  },
+  {
+    "key": "tank_call",
+    "name": "Tank Call",
+    "category": "Combat",
+    "effect": "Bradley_Damage_Bonus",
+    "glyph": "tank",
+    "file": "tank_call.png"
+  },
+  {
+    "key": "lifesteal",
+    "name": "Lifesteal",
+    "category": "Combat",
+    "effect": "Vampiric_Tendencies",
+    "glyph": "fang",
+    "file": "lifesteal.png"
+  },
+  {
+    "key": "amateur_tinkerer",
+    "name": "Amateur Tinkerer",
+    "category": "Build_Craft",
+    "effect": "Craft_Speed",
+    "glyph": "hammer",
+    "file": "amateur_tinkerer.png"
+  },
+  {
+    "key": "thrifty_renovator",
+    "name": "Thrifty Renovator",
+    "category": "Build_Craft",
+    "effect": "Upgrade_Refund",
+    "glyph": "coin",
+    "file": "thrifty_renovator.png"
+  },
+  {
+    "key": "adept_tinkerer",
+    "name": "Adept Tinkerer",
+    "category": "Build_Craft",
+    "effect": "Craft_Speed",
+    "glyph": "hammer",
+    "file": "adept_tinkerer.png"
+  },
+  {
+    "key": "thrifty_crafter",
+    "name": "Thrifty Crafter",
+    "category": "Build_Craft",
+    "effect": "Craft_Refund",
+    "glyph": "coin",
+    "file": "thrifty_crafter.png"
+  },
+  {
+    "key": "researcher",
+    "name": "Researcher",
+    "category": "Build_Craft",
+    "effect": "Research_Refund",
+    "glyph": "book",
+    "file": "researcher.png"
+  },
+  {
+    "key": "macgyver",
+    "name": "MacGyver",
+    "category": "Build_Craft",
+    "effect": "Free_Repairs",
+    "glyph": "wrench",
+    "file": "macgyver.png"
+  },
+  {
+    "key": "expert_tinkerer",
+    "name": "Expert Tinkerer",
+    "category": "Build_Craft",
+    "effect": "Craft_Speed",
+    "glyph": "hammer",
+    "file": "expert_tinkerer.png"
+  },
+  {
+    "key": "blast_furnace",
+    "name": "Blast Furnace",
+    "category": "Build_Craft",
+    "effect": "Log_Smelt",
+    "glyph": "furnace",
+    "file": "blast_furnace.png"
+  },
+  {
+    "key": "duplicator",
+    "name": "Duplicator",
+    "category": "Build_Craft",
+    "effect": "Craft_Duplicate",
+    "glyph": "copies",
+    "file": "duplicator.png"
+  },
+  {
+    "key": "blacksmith",
+    "name": "Blacksmith",
+    "category": "Build_Craft",
+    "effect": "MaxRepair",
+    "glyph": "wrench",
+    "file": "blacksmith.png"
+  },
+  {
+    "key": "quality_crafter",
+    "name": "Quality Crafter",
+    "category": "Build_Craft",
+    "effect": "Armor_Slots",
+    "glyph": "armor",
+    "file": "quality_crafter.png"
+  },
+  {
+    "key": "access_granted",
+    "name": "Access Granted",
+    "category": "Build_Craft",
+    "effect": "Build_Craft_Ultimate",
+    "glyph": "blueprint",
+    "file": "access_granted.png"
+  },
+  {
+    "key": "crafter",
+    "name": "Crafter",
+    "category": "Build_Craft",
+    "effect": "Personal_Workbench",
+    "glyph": "workbench",
+    "file": "crafter.png"
+  },
+  {
+    "key": "looter",
+    "name": "Looter",
+    "category": "Scavenging",
+    "effect": "Extra_Scrap_Barrel",
+    "glyph": "barrel",
+    "file": "looter.png"
+  },
+  {
+    "key": "barrel_smasher",
+    "name": "Barrel Smasher",
+    "category": "Scavenging",
+    "effect": "Barrel_Smasher",
+    "glyph": "hammer",
+    "file": "barrel_smasher.png"
+  },
+  {
+    "key": "loot_magnet",
+    "name": "Loot Magnet",
+    "category": "Scavenging",
+    "effect": "Loot_Pickup",
+    "glyph": "magnet",
+    "file": "loot_magnet.png"
+  },
+  {
+    "key": "lucky_looter",
+    "name": "Lucky Looter",
+    "category": "Scavenging",
+    "effect": "Extra_Scrap_Crate",
+    "glyph": "crate",
+    "file": "lucky_looter.png"
+  },
+  {
+    "key": "electro_lucky",
+    "name": "Electro Lucky",
+    "category": "Scavenging",
+    "effect": "Electronic_Chest",
+    "glyph": "gear_chest",
+    "file": "electro_lucky.png"
+  },
+  {
+    "key": "component_lucky",
+    "name": "Component Lucky",
+    "category": "Scavenging",
+    "effect": "Component_Chest",
+    "glyph": "crate",
+    "file": "component_lucky.png"
+  },
+  {
+    "key": "component_salvager",
+    "name": "Component Salvager",
+    "category": "Scavenging",
+    "effect": "Component_Barrel",
+    "glyph": "barrel",
+    "file": "component_salvager.png"
+  },
+  {
+    "key": "electronics_salvager",
+    "name": "Electronics Salvager",
+    "category": "Scavenging",
+    "effect": "Electronic_Barrel",
+    "glyph": "gear",
+    "file": "electronics_salvager.png"
+  },
+  {
+    "key": "optimized_recycling",
+    "name": "Optimized Recycling",
+    "category": "Scavenging",
+    "effect": "Recycler_Speed",
+    "glyph": "recycle",
+    "file": "optimized_recycling.png"
+  },
+  {
+    "key": "efficient_recycling",
+    "name": "Efficient Recycling",
+    "category": "Scavenging",
+    "effect": "Recycler_Efficiency",
+    "glyph": "recycle",
+    "file": "efficient_recycling.png"
+  },
+  {
+    "key": "shredder",
+    "name": "Shredder",
+    "category": "Scavenging",
+    "effect": "Scavengers_Ultimate",
+    "glyph": "treasure",
+    "file": "shredder.png"
+  },
+  {
+    "key": "amateur_rider",
+    "name": "Amateur Rider",
+    "category": "Vehicles",
+    "effect": "Riding_Speed",
+    "glyph": "horse",
+    "file": "amateur_rider.png"
+  },
+  {
+    "key": "yachtman",
+    "name": "Yachtman",
+    "category": "Vehicles",
+    "effect": "Boat_Speed",
+    "glyph": "boat",
+    "file": "yachtman.png"
+  },
+  {
+    "key": "economical_captain",
+    "name": "Economical Captain",
+    "category": "Vehicles",
+    "effect": "Boat_Fuel_Rate",
+    "glyph": "fuel",
+    "file": "economical_captain.png"
+  },
+  {
+    "key": "fast_feet",
+    "name": "Fast Feet",
+    "category": "Vehicles",
+    "effect": "Movement_Speed",
+    "glyph": "boot",
+    "file": "fast_feet.png"
+  },
+  {
+    "key": "adept_rider",
+    "name": "Adept Rider",
+    "category": "Vehicles",
+    "effect": "Riding_Speed",
+    "glyph": "horse",
+    "file": "adept_rider.png"
+  },
+  {
+    "key": "economical_pilot",
+    "name": "Economical Pilot",
+    "category": "Vehicles",
+    "effect": "Heli_Fuel_Rate",
+    "glyph": "fuel",
+    "file": "economical_pilot.png"
+  },
+  {
+    "key": "supercharged",
+    "name": "Supercharged",
+    "category": "Vehicles",
+    "effect": "BikeEnginePower",
+    "glyph": "engine",
+    "file": "supercharged.png"
+  },
+  {
+    "key": "airbags",
+    "name": "Airbags",
+    "category": "Vehicles",
+    "effect": "DriverCollisionResistance",
+    "glyph": "airbag",
+    "file": "airbags.png"
+  },
+  {
+    "key": "expert_rider",
+    "name": "Expert Rider",
+    "category": "Vehicles",
+    "effect": "Riding_Speed",
+    "glyph": "horse",
+    "file": "expert_rider.png"
+  },
+  {
+    "key": "hybrid_pilot",
+    "name": "Hybrid Pilot",
+    "category": "Vehicles",
+    "effect": "Heli_Fuel_Rate",
+    "glyph": "fuel",
+    "file": "hybrid_pilot.png"
+  },
+  {
+    "key": "jet_engine",
+    "name": "Jet Engine",
+    "category": "Vehicles",
+    "effect": "Heli_Speed",
+    "glyph": "helicopter",
+    "file": "jet_engine.png"
+  },
+  {
+    "key": "tank",
+    "name": "Tank",
+    "category": "Vehicles",
+    "effect": "Vehicle_Ultimate",
+    "glyph": "vehicle",
+    "file": "tank.png"
+  },
+  {
+    "key": "mechanic",
+    "name": "Mechanic",
+    "category": "Vehicles",
+    "effect": "Vehicle_Mechanic",
+    "glyph": "wrench",
+    "file": "mechanic.png"
+  },
+  {
+    "key": "easily_satisfied",
+    "name": "Easily Satisfied",
+    "category": "Cooking",
+    "effect": "Extra_Food_Water",
+    "glyph": "apple",
+    "file": "easily_satisfied.png"
+  },
+  {
+    "key": "tea_party",
+    "name": "Tea Party",
+    "category": "Cooking",
+    "effect": "Extended_Tea_Duration",
+    "glyph": "teacup",
+    "file": "tea_party.png"
+  },
+  {
+    "key": "iron_stomach",
+    "name": "Iron Stomach",
+    "category": "Cooking",
+    "effect": "Iron_Stomach",
+    "glyph": "stomach",
+    "file": "iron_stomach.png"
+  },
+  {
+    "key": "glutton",
+    "name": "Glutton",
+    "category": "Cooking",
+    "effect": "Metabolism_Boost",
+    "glyph": "flask",
+    "file": "glutton.png"
+  },
+  {
+    "key": "tea_connoisseur",
+    "name": "Tea Connoisseur",
+    "category": "Cooking",
+    "effect": "Tea_Looter",
+    "glyph": "teacup",
+    "file": "tea_connoisseur.png"
+  },
+  {
+    "key": "frugal_rationer",
+    "name": "Frugal Rationer",
+    "category": "Cooking",
+    "effect": "Rationer",
+    "glyph": "ration",
+    "file": "frugal_rationer.png"
+  },
+  {
+    "key": "fry_cook",
+    "name": "Fry Cook",
+    "category": "Cooking",
+    "effect": "Cooking_Speed",
+    "glyph": "pan",
+    "file": "fry_cook.png"
+  },
+  {
+    "key": "ambrosia",
+    "name": "Ambrosia",
+    "category": "Cooking",
+    "effect": "Cooking_Ultimate",
+    "glyph": "pan",
+    "file": "ambrosia.png"
+  },
+  {
+    "key": "cage_diver",
+    "name": "Cage Diver",
+    "category": "Underwater",
+    "effect": "SharkResistance",
+    "glyph": "shark_shield",
+    "file": "cage_diver.png"
+  },
+  {
+    "key": "gilled",
+    "name": "Gilled",
+    "category": "Underwater",
+    "effect": "WaterBreathing",
+    "glyph": "diver_mask",
+    "file": "gilled.png"
+  },
+  {
+    "key": "reckless_diver",
+    "name": "Reckless Diver",
+    "category": "Underwater",
+    "effect": "SharkResistance",
+    "glyph": "shark_shield",
+    "file": "reckless_diver.png"
+  },
+  {
+    "key": "shark_veterinarian",
+    "name": "Shark Veterinarian",
+    "category": "Underwater",
+    "effect": "SharkSkinner",
+    "glyph": "knife",
+    "file": "shark_veterinarian.png"
+  },
+  {
+    "key": "treasure_hunter",
+    "name": "Treasure Hunter",
+    "category": "Underwater",
+    "effect": "DeepSeaLooter",
+    "glyph": "treasure",
+    "file": "treasure_hunter.png"
+  },
+  {
+    "key": "nimble_fingers",
+    "name": "Nimble Fingers",
+    "category": "Underwater",
+    "effect": "InstantUntie",
+    "glyph": "knot",
+    "file": "nimble_fingers.png"
+  },
+  {
+    "key": "sonar_pulse",
+    "name": "Sonar Pulse",
+    "category": "Underwater",
+    "effect": "Sonar",
+    "glyph": "sonar",
+    "file": "sonar_pulse.png"
+  },
+  {
+    "key": "trap_evader",
+    "name": "Trap Evader",
+    "category": "Raiding",
+    "effect": "Trap_Damage_Reduction",
+    "glyph": "trap_shield",
+    "file": "trap_evader.png"
+  },
+  {
+    "key": "mine_sweeper",
+    "name": "Mine Sweeper",
+    "category": "Raiding",
+    "effect": "Trap_Damage_Increase",
+    "glyph": "trap",
+    "file": "mine_sweeper.png"
+  },
+  {
+    "key": "fire_in_the_hole",
+    "name": "Fire in the Hole",
+    "category": "Raiding",
+    "effect": "Personal_Explosive_Reduction",
+    "glyph": "bomb_shield",
+    "file": "fire_in_the_hole.png"
+  },
+  {
+    "key": "ol_reliable",
+    "name": "Ol' Reliable",
+    "category": "Raiding",
+    "effect": "Dudless_Explosive",
+    "glyph": "bomb",
+    "file": "ol_reliable.png"
+  },
+  {
+    "key": "raider_s_instinct",
+    "name": "Raider's Instinct",
+    "category": "Raiding",
+    "effect": "Loot_Spotter",
+    "glyph": "eye",
+    "file": "raider_s_instinct.png"
+  },
+  {
+    "key": "demolition_expert",
+    "name": "Demolition Expert",
+    "category": "Raiding",
+    "effect": "Double_Explosion_Chance",
+    "glyph": "bomb",
+    "file": "demolition_expert.png"
+  },
+  {
+    "key": "area_of_effect",
+    "name": "Area of Effect",
+    "category": "Raiding",
+    "effect": "Explosion_Radius",
+    "glyph": "blast",
+    "file": "area_of_effect.png"
+  },
+  {
+    "key": "robber",
+    "name": "Robber",
+    "category": "Raiding",
+    "effect": "Lock_Picker",
+    "glyph": "lockpick",
+    "file": "robber.png"
+  },
+  {
+    "key": "perception",
+    "name": "Perception",
+    "category": "Raiding",
+    "effect": "Trap_Spotter",
+    "glyph": "eye",
+    "file": "perception.png"
+  },
+  {
+    "key": "scorched_earth",
+    "name": "Scorched Earth",
+    "category": "Raiding",
+    "effect": "Raiding_Ultimate",
+    "glyph": "explosion",
+    "file": "scorched_earth.png"
+  },
+  {
+    "key": "comforting_presence",
+    "name": "Comforting Presence",
+    "category": "Team",
+    "effect": "Comfort",
+    "glyph": "campfire",
+    "file": "comforting_presence.png"
+  },
+  {
+    "key": "dinner_time",
+    "name": "Dinner Time",
+    "category": "Team",
+    "effect": "Metabolism_Share",
+    "glyph": "apple",
+    "file": "dinner_time.png"
+  },
+  {
+    "key": "doctor",
+    "name": "Doctor",
+    "category": "Team",
+    "effect": "Heal_Share",
+    "glyph": "medical",
+    "file": "doctor.png"
+  },
+  {
+    "key": "team_buffer",
+    "name": "Team Buffer",
+    "category": "Team",
+    "effect": "Team_Buff_Share",
+    "glyph": "group_shield",
+    "file": "team_buffer.png"
+  },
+  {
+    "key": "teacher",
+    "name": "Teacher",
+    "category": "Team",
+    "effect": "XP_Share",
+    "glyph": "book",
+    "file": "teacher.png"
+  },
+  {
+    "key": "crafting_aura",
+    "name": "Crafting Aura",
+    "category": "Team",
+    "effect": "Crafting_Aura",
+    "glyph": "aura",
+    "file": "crafting_aura.png"
+  },
+  {
+    "key": "arise",
+    "name": "Arise",
+    "category": "Team",
+    "effect": "Arise",
+    "glyph": "group",
+    "file": "arise.png"
+  }
+]
